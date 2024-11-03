@@ -1,0 +1,12 @@
+{
+    "name": "Daily Motivation",
+    "version": "1.0",
+    "description": "Daily Motivation Boost Here...",
+    "manifest_version": 3,
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "icons": {
+        "2": "2.png"
+    }
+}
